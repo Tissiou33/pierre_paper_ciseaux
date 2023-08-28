@@ -57,3 +57,5 @@ while True:
     # si le joueur veut arrêter, on sort de la boucle
     if continuer.lower() == "non":
         break
+        
+#quelques modif a completer
