@@ -49,6 +49,8 @@ while True:
     # on détermine et affiche le gagnant du jeu
     resultat = gagnant(joueur, ordinateur)
     print(resultat)
+
+    #quelques details à revoir
     
     # on demande à l'utilisateur s'il veut continuer ou arrêter le jeu
     continuer = input("Voulez-vous continuer ? (oui/non) : ")
