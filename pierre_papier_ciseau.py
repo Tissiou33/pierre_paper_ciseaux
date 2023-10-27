@@ -49,6 +49,7 @@ while True:
     # on détermine et affiche le gagnant du jeu
     resultat = gagnant(joueur, ordinateur)
     print(resultat)
+    #hon
 
     #quelques details à revoir
     
