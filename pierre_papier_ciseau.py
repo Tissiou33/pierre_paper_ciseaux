@@ -60,3 +60,4 @@ while True:
         break
         
 #quelques modif a completer
+#Ajout d'une interfaces
